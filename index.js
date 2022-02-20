@@ -1,1 +1,1 @@
-module.exports = require('./lib/util');
+export { default } from "./lib/util";
