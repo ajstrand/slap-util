@@ -18,7 +18,7 @@
   "homepage": "https://github.com/slap-editor/slap-util#readme",
   "dependencies": {
     "neo-blessed": "0.2.0",
-    "bluebird": "3.5.5",
+    "bluebird": "3.7.2",
     "lodash": "4.17.21",
     "longjohn": "0.2.12",
     "traverse": "0.6.6",
